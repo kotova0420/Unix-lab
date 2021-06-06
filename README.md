@@ -1,5 +1,4 @@
 # Unix
- Практики
  ***
  * [Task 0](https://github.com/kotova0420/Unix-lab/tree/main/Task0)
  * [Task 1](https://github.com/kotova0420/Unix-lab/tree/main/Task1)
